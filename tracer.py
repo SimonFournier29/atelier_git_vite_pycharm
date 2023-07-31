@@ -1,4 +1,4 @@
-def calculer_coodonnees_droite_horizontale(xa, xb, y, nbsegmentx):
+def calculer_coordonnees_droite_horizontale(xa, xb, y, nbsegmentx):
   liste_points = []
   delta_x = (xb - xa)/nbsegmentx
 
@@ -7,7 +7,7 @@ def calculer_coodonnees_droite_horizontale(xa, xb, y, nbsegmentx):
     liste_points.append((x_inter, y))
   return liste_points
 
-def calculer_coodonnees_droite_verticale(ya, yb, x, nbsegmenty):
+def calculer_coordonnees_droite_verticale(ya, yb, x, nbsegmenty):
   liste_points = []
   delta_y = (yb - ya)/nbsegmenty
 
