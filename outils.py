@@ -5,7 +5,7 @@ def calculer_distance_points(x1, y1, x2, y2):
 
 def obtenir_x_y_max(coordonnees):
   max_x, max_y = 0, 0
-
+#sépare les valeurs x et y pour les évaluer séparément
   for x, y in coordonnees:
     if x > max_x:
       max_x = x
