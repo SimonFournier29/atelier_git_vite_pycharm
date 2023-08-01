@@ -4,6 +4,7 @@ def appliquer_rotation(coordonnees, angle_rad, xp, yp):
 
   angle_x = math.cos(angle_rad)
   angle_y = math.sin(angle_rad)
+  #matrice modelée selon MEC129
   matrice_rot = np.array([[angle_x, -angle_y], [angle_y, angle_x]])
 
   pivot_a_origine = np.array(coordonnees) - np.array([xp, yp])
