@@ -1,0 +1,28 @@
+Critères:						Niveaux:
+
+	Fonctionnalité: +100 %			Parfait:	100	%
+	Lisibilité:		-25 %			Excellent:	80 %
+	Documentation: 	-25 %			Bien:		60 %
+	Efficacité:		-10 %			Passable:	50%
+									Inadéquat:	0 - 40%
+
+Évaluation:
+
+	(F)onctionnalité:	Inadéquat
+	(L)isibilité:		Inadéquat
+	(D)ocumentation:	Inadéquat
+	(E)fficacité:		Inadéquat
+
+Calcul de la note: F - (60 - L * 25 - D * 25 - E * 10)
+
+	 - (60 - 0 * 25 - 0 * 25 - 0 * 10) = 0
+
+Commentaires/remarques:
+
+    - Le projet est incomplet et ne fonctionne pas.
+
+    - Il n'y a pas d'en-têtes.
+
+    - etc.
+
+    - Ce travail est inadmissible à être corrigé. J'étais pourant disponible toute la session pour vous aider.

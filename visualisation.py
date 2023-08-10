@@ -261,7 +261,7 @@ def visualiser_detection_contours():
 
 
 if __name__ == '__main__':
-    '''
+
     visualiser_detection_contours()
 
 
@@ -271,4 +271,3 @@ if __name__ == '__main__':
                                           est_rotation=False,
                                           est_translation=False,
                                           est_facteur_echelle=False)
-    '''
